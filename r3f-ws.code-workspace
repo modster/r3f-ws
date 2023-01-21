@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../r3f-ws"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Tomorrow Night Blue"
+	}
+}
